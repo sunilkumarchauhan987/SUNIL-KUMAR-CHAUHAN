@@ -15,39 +15,6 @@
   </a>
 </p>
 
-<!-- Right side GIF -->
-<img align="right" alt="coding" width="380" src="https://khatriroshan.com.np/static/media/giphy.b31655aeb566789dab09.gif" />
-
-<!-- Profile views + small badges -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=manish1234783&label=Profile%20views&color=0e75b6&style=flat" alt="manish1234783" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Role-Data%20Analyst-1abc9c?style=flat-square" alt="Role badge" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Data%20Visualization-9b59b6?style=flat-square" alt="Focus badge" />
-</p>
-
-<!-- About / bullets -->
-<ul>
-  <li>🌱 Currently deepening skills in <b>Python</b>, <b>SQL</b>, and <b>Power BI</b>.</li>
-  <li>📊 Passionate about turning messy datasets into clear, actionable stories.</li>
-  <li>📫 Reach me at: <b>manishshiva130@gmail.com</b></li>
-  <li>😁 Fun fact: <b>I use humor to debug both code and life 😎😜</b></li>
-</ul>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/manishkumarsingh-8b21681b2/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/manish.kumar.singh" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/_itzmanish" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Python -->
