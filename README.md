@@ -1,1 +1,63 @@
-# SUNIL-KUMAR-CHAUHAN
+<h1 align="center">Hi 👋, I'm SUNIL KUMAR CHAUHAN</h1>
+<h3 align="center">A passionate data analyst from India</h3>
+
+<img align="right" alt="coding" width="400" src="https://khatriroshan.com.np/static/media/giphy.b31655aeb566789dab09.gif" />
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=manish1234783&label=Profile%20views&color=0e75b6&style=flat" alt="manish1234783" />
+</p>
+
+- 🌱 I’m currently learning Python**
+- 📫 How to reach me **sunilkumarchauhan987@gmail.com**
+- 😁 Fun fact **I am funny 😎😜**
+ 
+
+  </a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <!-- PostgreSQL -->
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" height="40"/>
+  </a>
+  &nbsp;
+
+  <!-- MySQL -->
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40"/>
+  </a>
+  &nbsp;
+
+  <!-- Power BI -->
+  <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=powerbi" alt="Power BI" height="40"/>
+  </a>
+  &nbsp;
+
+  <!-- Tableau -->
+  <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=tableau" alt="Tableau" height="40"/>
+  </a>
+  &nbsp;
+
+  <!-- Excel -->
+  <a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=excel" alt="Excel" height="40"/>
+  </a>
+</p>
+
+
+  
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=manish1234783&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p>&nbsp;</p>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=manish1234783&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manish1234783&" alt="GitHub Str
