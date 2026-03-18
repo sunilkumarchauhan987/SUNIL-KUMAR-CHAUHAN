@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SUNIl KUMAR CHAUHAN</h1>
+<h1 align="center">Hi 👋, I'm SUNIL KUMAR CHAUHAN</h1>
 <h3 align="center">Data Analyst | Storytelling with Data | From India 🇮🇳|AI Curious • Future-Ready</h3>
 
 <!-- Typing effect -->
